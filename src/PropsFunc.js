@@ -38,6 +38,6 @@ export default class Cha extends Component {
  * truyền từ con sang cha
  * b1: viết props component con: this.props.tenPropsFunction(gia tri can truyen vao) từ onClick
  * b2: định nghĩa tenPropsFunction ở component con dòng 30, truyền vào là 1 function với
- * giá trị là giá trị bên component con
+ * giá trị là giá trị được truyền từ bên component con
  *
  */
